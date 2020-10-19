@@ -1,0 +1,65 @@
+.target1 {
+    width: 800px;
+    height: 530px;
+    background: black;
+    margin-left: 5px;
+    margin-top: 5px;
+    position: absolute;
+
+}
+
+.target2 {
+    width: 795px;
+    height: 80px;
+    background: darkorange;
+    top: 7px;
+    margin-left: 7px;
+    position: relative;
+
+}
+
+.target3 {
+    width: 183px;
+    height: 350px;
+    background: crimson;
+    margin-left: 7px;
+    margin-top: 7px;
+    position: relative;
+}
+
+.target4 {
+    width: 225px;
+    height: 350px;
+    background: darkgreen;
+    margin-left: 190px;
+    margin-top: -350px;
+    position: relative;
+}
+
+.target5 {
+    width: 225px;
+    height: 350px;
+    background: blue;
+    margin-left: 415px;
+    margin-top: -350px;
+    position: relative;
+}
+
+.target6 {
+    width: 167px;
+    height: 350px;
+    background: black;
+    margin-left: 635px;
+    margin-top: -350px;
+    position: relative;
+}
+
+
+.target7 {
+    width: 795px;
+    height: 100px;
+    background: darkorange;
+    bottom: 5px;
+    margin-left: 7px;
+    position: relative;
+}
